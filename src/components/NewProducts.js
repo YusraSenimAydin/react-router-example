@@ -1,7 +1,3 @@
-import React from 'react'
-
-export default function NewProducts() {
-  return (
-    <div>NewProducts</div>
-  )
+export const NewProducts = () => {
+  return <div>List of new products</div>
 }

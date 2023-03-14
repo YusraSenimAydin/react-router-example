@@ -1,6 +1,6 @@
 import { useNavigate } from 'react-router-dom'
 
-export default function OrderSummary () {
+export const OrderSummary = () => {
   const navigate = useNavigate()
 
   return (

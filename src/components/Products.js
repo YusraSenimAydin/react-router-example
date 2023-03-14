@@ -1,6 +1,6 @@
 import { Link, Outlet } from 'react-router-dom'
 
-export default function Products () {
+export const Products = () => {
   return (
     <>
       <div>
